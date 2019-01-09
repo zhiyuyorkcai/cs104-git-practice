@@ -1,6 +1,6 @@
 # include <iostream>
 
-int amin()
+int main()
 {
 	std::cout << "FightOn!" << std::endl;
 }
